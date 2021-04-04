@@ -61,3 +61,18 @@ ul {
 .section-caption{
     color: var(--secondary-text-color);
 }
+
+/* Footer */
+.address-text{
+  color: #ffffff;
+}
+.address a{
+  color: var(--secondary-text-color);
+}
+.address a:hover{
+  color: var(--accent-text-color);
+}
+.address a:focus{
+  color: blue;
+}
+
