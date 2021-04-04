@@ -84,6 +84,9 @@ color: blue;
 .address-text{
   color: #ffffff;
 }
+.footer-logo{
+  color:var(--accent-text-color)
+}
 .address a{
   color: var(--secondary-text-color);
 }
