@@ -42,7 +42,18 @@ ul {
   color:var(--accent-text-color)
 }
 
-/* Advantages */
+/* Hero-Portfolio */
+.button-list button{
+  color: var(--primary-text-color);
+}
+.button-list button:hover{
+  color:var(--accent-text-color);
+}
+.button-list button:focus{
+color: blue;
+}
+
+/* Advantages-Studio */
 .section-advantages h3 {
   color: var(--primary-text-color);
 }
