@@ -24,7 +24,7 @@ ul {
 .link-nav .page-current{
   color: var(--accent-text-color);
 }
-  .logo a{
+  .logo{
     color:#000000
   }
 
