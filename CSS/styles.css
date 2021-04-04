@@ -4,3 +4,14 @@
   --accent-text-color: #2196f3;
 }
 
+/* Navigation */
+.link-nav a {
+  color: var(--primary-text-color);
+}
+.link-contact a {
+  color: var(--secondary-text-color);
+}
+.link:hover {
+  color: var(--accent-text-color);
+}
+
