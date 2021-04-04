@@ -19,6 +19,15 @@ ul {
 .link:hover {
   color: var(--accent-text-color);
 }
+.link:focus{
+  color: blue;
+}
+.link-nav .page-current{
+  color: var(--accent-text-color);
+}
+  .logo a{
+    color:#000000
+  }
 
 /* Hero */
 .section-hero-title {
