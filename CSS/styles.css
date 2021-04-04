@@ -22,3 +22,22 @@
 .section-hero button {
   color: #ffffff;
 }
+
+/* Advantages */
+.section-advantages h3 {
+  color: var(--primary-text-color);
+}
+.section-advantages p {
+  color: var(--secondary-text-color);
+}
+
+/* Work-title */
+.section-title {
+  color: var(--primary-text-color);
+}
+.section-subtitle {
+  color: var(--primary-text-color);
+}
+.section-caption{
+    color: var(--secondary-text-color);
+}
