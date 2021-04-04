@@ -5,6 +5,11 @@
 }
 
 /* Navigation */
+ul {
+  list-style: none;
+}
+
+/* Navigation header */
 .link-nav a {
   color: var(--primary-text-color);
 }
