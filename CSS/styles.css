@@ -36,6 +36,12 @@ ul {
 .section-hero button {
   color: #ffffff;
 }
+.section-hero button:focus{
+  color: blue;
+}
+.section-hero button:hover{
+  color:var(--accent-text-color)
+}
 
 /* Advantages */
 .section-advantages h3 {
