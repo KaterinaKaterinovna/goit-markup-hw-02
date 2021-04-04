@@ -15,3 +15,10 @@
   color: var(--accent-text-color);
 }
 
+/* Hero */
+.section-hero-title {
+  color: #ffffff;
+}
+.section-hero button {
+  color: #ffffff;
+}
