@@ -61,7 +61,15 @@ color: blue;
   color: var(--secondary-text-color);
 }
 
-/* Work-title */
+/*Projects-Portfolio  */
+.projects h2{
+  color: var(--primary-text-color);
+}
+.projects p{
+  color: var(--secondary-text-color);
+}
+
+/* Work-title Studio */
 .section-title {
   color: var(--primary-text-color);
 }
