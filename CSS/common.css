@@ -2,6 +2,7 @@
     --primary-text-color: #212121;
     --secondary-text-color: #757575;
     --accent-text-color: #2196f3;
+    --dark-bg-color: #2F303A
     
   }
   /* Global Style */
@@ -22,15 +23,14 @@
     text-decoration: none;
     color: inherit;
   }
-  .link:hover{
+  .link:hover,
+  .link:focus,{
     color: var(--accent-text-color);
-  }
-  .link:focus{
-    color: var(--accent-text-color)
   }
   .link:active{
     color:rgb(228, 101, 228)
   }
+
   .link-contact{
   font-weight: 500;
   font-size: 14px;
