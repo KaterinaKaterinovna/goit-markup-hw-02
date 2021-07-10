@@ -68,9 +68,13 @@
   text-decoration: none;
   color: var(--accent-text-color);
   }
+
+  .logo-part-header{
+    color: #000000;
+  }
   
-  .footer-logo{
-    color: var(--accent-text-color) ;
+  .logo-part-footer{
+    color: #ffffff;
   }
   
     .address{
